@@ -1,0 +1,9 @@
+﻿The main moto of these experiment is to form an Logically correct sentence from the given group of words.
+Here Drop down button is used to select an known language like English and Hindi,select any one language
+after that we have to click on the given words in an correct order.If the formed sentence is correct then it displays as Right Answer else wrong like that.Get answer is present and gets all the correct sentences and here Reform Sentence is also present and when we clicked it,it reforms the jumbled words. 
+<------>Functionalities:<------>
+1.Dropdown button(It is used to select an Language)
+2.Check the sentence Button is used(To justify the formed sentence is correct or not)
+3.Button like Get Answer is present(It is used to get all correct sentences)
+4.Button like Reform the Sentence is also present like an Reset Button(It hides the correct sentnce and takes
+the so formed words to Correct place)
